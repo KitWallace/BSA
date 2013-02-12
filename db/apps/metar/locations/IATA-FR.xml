@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stations>
+    <Station>
+        <station>CALAIS/DUNKERQUE </station>
+        <ICAO>LFAC</ICAO>
+        <elevation>3</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>50.967</latitude>
+        <longitude>1.95</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BRAY             </station>
+        <ICAO>LFAQ</ICAO>
+        <elevation>111</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.967</latitude>
+        <longitude>2.7</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>AGEN/LA GARENNE  </station>
+        <ICAO>LFBA</ICAO>
+        <elevation>60</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.167</latitude>
+        <longitude>0.6</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CAZAUX POND (FAF </station>
+        <ICAO>LFBC</ICAO>
+        <elevation>33</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.517</latitude>
+        <longitude>-1.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BORDEAUX/MERIGNA </station>
+        <ICAO>LFBD</ICAO>
+        <elevation>61</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.817</latitude>
+        <longitude>-0.7</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BERGERAC/ROUMANI </station>
+        <ICAO>LFBE</ICAO>
+        <elevation>52</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.817</latitude>
+        <longitude>0.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TOULOUSE/FRANCAZ </station>
+        <ICAO>LFBF</ICAO>
+        <elevation>166</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.517</latitude>
+        <longitude>1.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>COGNAC/CHATEAUBE </station>
+        <ICAO>LFBG</ICAO>
+        <elevation>31</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.667</latitude>
+        <longitude>-0.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LA ROCHELLE/LALE </station>
+        <ICAO>LFBH</ICAO>
+        <elevation>10</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.133</latitude>
+        <longitude>-1.133</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>POITIERS/BIARD(A </station>
+        <ICAO>LFBI</ICAO>
+        <elevation>120</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.567</latitude>
+        <longitude>0.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MONTLUCON/GUERET </station>
+        <ICAO>LFBK</ICAO>
+        <elevation>415</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.217</latitude>
+        <longitude>2.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LIMOGES/BELLEGAR </station>
+        <ICAO>LFBL</ICAO>
+        <elevation>402</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.867</latitude>
+        <longitude>1.167</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MONT-DE-MARSAN F </station>
+        <ICAO>LFBM</ICAO>
+        <elevation>63</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.917</latitude>
+        <longitude>-0.5</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>NIORT/SOUCHE (AU </station>
+        <ICAO>LFBN</ICAO>
+        <elevation>61</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.317</latitude>
+        <longitude>-0.4</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TOULOUSE/BLAGNAC </station>
+        <ICAO>LFBO</ICAO>
+        <elevation>153</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.617</latitude>
+        <longitude>1.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PONT-LONG-UZEIN/ </station>
+        <ICAO>LFBP</ICAO>
+        <elevation>185</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.367</latitude>
+        <longitude>-0.417</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MURET/LHERM      </station>
+        <ICAO>LFBR</ICAO>
+        <elevation>189</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.45</latitude>
+        <longitude>1.267</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BISCAROSSE/PAREN </station>
+        <ICAO>LFBS</ICAO>
+        <elevation>39</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.417</latitude>
+        <longitude>-1.25</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TARBES/OSSUN     </station>
+        <ICAO>LFBT</ICAO>
+        <elevation>363</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.167</latitude>
+        <longitude>0</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BRIE CHAMPNIERS  </station>
+        <ICAO>LFBU</ICAO>
+        <elevation>133</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.717</latitude>
+        <longitude>0.217</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BRIVE/LA ROCHE(A </station>
+        <ICAO>LFBV</ICAO>
+        <elevation>117</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.133</latitude>
+        <longitude>1.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PERIGUEUX/BASSIL </station>
+        <ICAO>LFBX</ICAO>
+        <elevation>97</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.2</latitude>
+        <longitude>0.817</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>DAX/SEYRESSE     </station>
+        <ICAO>LFBY</ICAO>
+        <elevation>32</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.667</latitude>
+        <longitude>-1.067</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BIARRITZ/ANGLET  </station>
+        <ICAO>LFBZ</ICAO>
+        <elevation>71</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.467</latitude>
+        <longitude>-1.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LALBENQUE/CAHORS </station>
+        <ICAO>LFCC</ICAO>
+        <elevation>278</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.35</latitude>
+        <longitude>1.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ST. GIRONS/ANTIC </station>
+        <ICAO>LFCG</ICAO>
+        <elevation>412</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43</latitude>
+        <longitude>1.1</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ALBI/LE SEQUESTR </station>
+        <ICAO>LFCI</ICAO>
+        <elevation>178</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.917</latitude>
+        <longitude>2.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>RODEZ/MARCILLAC  </station>
+        <ICAO>LFCR</ICAO>
+        <elevation>580</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.383</latitude>
+        <longitude>2.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>AUCH/LAMOTHE (AU </station>
+        <ICAO>LFDH</ICAO>
+        <elevation>128</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.667</latitude>
+        <longitude>0.6</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SUIPPES RANGE (M </station>
+        <ICAO>LFFS</ICAO>
+        <elevation>199</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.133</latitude>
+        <longitude>4.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>DOLE TAVAUX      </station>
+        <ICAO>LFGJ</ICAO>
+        <elevation>196</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.05</latitude>
+        <longitude>5.433</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MEGEVE           </station>
+        <ICAO>LFHM</ICAO>
+        <elevation>950</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.867</latitude>
+        <longitude>6.617</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LE PUY/LOUDES (A </station>
+        <ICAO>LFHP</ICAO>
+        <elevation>833</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.067</latitude>
+        <longitude>3.767</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CASSAGNES-BEGONH </station>
+        <ICAO>LFIG</ICAO>
+        <elevation>1020</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.167</latitude>
+        <longitude>2.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>METZ-NANCY-LORRA </station>
+        <ICAO>LFJL</ICAO>
+        <elevation>264</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.967</latitude>
+        <longitude>6.25</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MARCE            </station>
+        <ICAO>LFJR</ICAO>
+        <elevation>60</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.567</latitude>
+        <longitude>0.3</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BASTIA/PORETTA   </station>
+        <ICAO>LFKB</ICAO>
+        <elevation>12</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>42.533</latitude>
+        <longitude>9.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CALVI/ST. CATHER </station>
+        <ICAO>LFKC</ICAO>
+        <elevation>58</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>42.517</latitude>
+        <longitude>8.8</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>FIGARI (AUT)     </station>
+        <ICAO>LFKF</ICAO>
+        <elevation>23</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>41.5</latitude>
+        <longitude>9.083</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>AJACCIO/CAMPO OR </station>
+        <ICAO>LFKJ</ICAO>
+        <elevation>9</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>41.917</latitude>
+        <longitude>8.8</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SOLENZARA (FAFB) </station>
+        <ICAO>LFKS</ICAO>
+        <elevation>22</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>41.917</latitude>
+        <longitude>9.4</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>AUXERRE (AUT)    </station>
+        <ICAO>LFLA</ICAO>
+        <elevation>212</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.783</latitude>
+        <longitude>3.533</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CHAMBERY/AIX BAI </station>
+        <ICAO>LFLB</ICAO>
+        <elevation>239</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.633</latitude>
+        <longitude>5.867</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CLERMONT/AULNAT  </station>
+        <ICAO>LFLC</ICAO>
+        <elevation>330</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.767</latitude>
+        <longitude>3.167</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BOURGES (AUT)    </station>
+        <ICAO>LFLD</ICAO>
+        <elevation>166</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.067</latitude>
+        <longitude>2.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LYON/SATOLAS     </station>
+        <ICAO>LFLL</ICAO>
+        <elevation>240</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.717</latitude>
+        <longitude>5.067</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MACON/CHARNAY (A </station>
+        <ICAO>LFLM</ICAO>
+        <elevation>217</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.283</latitude>
+        <longitude>4.783</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SAINT YAN        </station>
+        <ICAO>LFLN</ICAO>
+        <elevation>244</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.417</latitude>
+        <longitude>4.017</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ANNECY/MEYTHET   </station>
+        <ICAO>LFLP</ICAO>
+        <elevation>463</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.917</latitude>
+        <longitude>6.083</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MONTELIMAR/ANCON </station>
+        <ICAO>LFLQ</ICAO>
+        <elevation>74</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.567</latitude>
+        <longitude>4.717</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>GRENOBLE/ST. GEO </station>
+        <ICAO>LFLS</ICAO>
+        <elevation>386</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.367</latitude>
+        <longitude>5.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>VICHY/CHARMEIL   </station>
+        <ICAO>LFLV</ICAO>
+        <elevation>251</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.167</latitude>
+        <longitude>3.383</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>AURILLAC (AUT)   </station>
+        <ICAO>LFLW</ICAO>
+        <elevation>639</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.883</latitude>
+        <longitude>2.417</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CHATEAUROUX/DEOL </station>
+        <ICAO>LFLX</ICAO>
+        <elevation>157</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.85</latitude>
+        <longitude>1.717</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LYON/BRON        </station>
+        <ICAO>LFLY</ICAO>
+        <elevation>201</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.717</latitude>
+        <longitude>4.95</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>AIX LES MILLES F </station>
+        <ICAO>LFMA</ICAO>
+        <elevation>111</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.5</latitude>
+        <longitude>5.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LE LUC/LE CANNET </station>
+        <ICAO>LFMC</ICAO>
+        <elevation>78</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.367</latitude>
+        <longitude>6.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CANNES/MANDELIEU </station>
+        <ICAO>LFMD</ICAO>
+        <elevation>9</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.533</latitude>
+        <longitude>6.95</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>NIMES/COURBESSAC </station>
+        <ICAO>LFME</ICAO>
+        <elevation>62</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.867</latitude>
+        <longitude>4.4</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ST ETIENNE/BOUTH </station>
+        <ICAO>LFMH</ICAO>
+        <elevation>402</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.517</latitude>
+        <longitude>4.283</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ISTRES/LE TUBE F </station>
+        <ICAO>LFMI</ICAO>
+        <elevation>24</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.517</latitude>
+        <longitude>4.917</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CARCASSONNE/SALV </station>
+        <ICAO>LFMK</ICAO>
+        <elevation>130</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.217</latitude>
+        <longitude>2.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MARSEILLE/MARIGN </station>
+        <ICAO>LFML</ICAO>
+        <elevation>36</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.45</latitude>
+        <longitude>5.217</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>NICE/COTE D'AZUR </station>
+        <ICAO>LFMN</ICAO>
+        <elevation>10</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.633</latitude>
+        <longitude>7.2</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ORANGE/CARITAT(F </station>
+        <ICAO>LFMO</ICAO>
+        <elevation>55</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.117</latitude>
+        <longitude>4.817</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PERPIGNAN/RIVESA </station>
+        <ICAO>LFMP</ICAO>
+        <elevation>48</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>42.717</latitude>
+        <longitude>2.867</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>FREJORGUES/MONTP </station>
+        <ICAO>LFMT</ICAO>
+        <elevation>6</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.567</latitude>
+        <longitude>3.967</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BEZIERS/VIAS     </station>
+        <ICAO>LFMU</ICAO>
+        <elevation>17</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.317</latitude>
+        <longitude>3.35</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CAUMONT          </station>
+        <ICAO>LFMV</ICAO>
+        <elevation>38</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.9</latitude>
+        <longitude>4.9</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ST-AUBAN-SUR-DUR </station>
+        <ICAO>LFMX</ICAO>
+        <elevation>461</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.067</latitude>
+        <longitude>6</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SALON (FAFB)     </station>
+        <ICAO>LFMY</ICAO>
+        <elevation>60</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.6</latitude>
+        <longitude>5.083</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>GAP/TALLARD      </station>
+        <ICAO>LFNA</ICAO>
+        <elevation>733</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.567</latitude>
+        <longitude>6.067</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MENDE/BRENOUX    </station>
+        <ICAO>LFNB</ICAO>
+        <elevation>1024</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.5</latitude>
+        <longitude>3.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LA MOLE          </station>
+        <ICAO>LFNM</ICAO>
+        <elevation>18</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.2</latitude>
+        <longitude>6.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>AVORD (FAFB)     </station>
+        <ICAO>LFOA</ICAO>
+        <elevation>179</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.033</latitude>
+        <longitude>2.633</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BEAUVAIS/TILLE(A </station>
+        <ICAO>LFOB</ICAO>
+        <elevation>111</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.467</latitude>
+        <longitude>2.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CHATEAUDUN (FAFB </station>
+        <ICAO>LFOC</ICAO>
+        <elevation>127</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.033</latitude>
+        <longitude>1.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>EVREUX/FAUVILLE  </station>
+        <ICAO>LFOE</ICAO>
+        <elevation>146</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.017</latitude>
+        <longitude>1.217</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ALENCON/VALFRAMB </station>
+        <ICAO>LFOF</ICAO>
+        <elevation>141</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.45</latitude>
+        <longitude>0.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LE HAVRE/OCTEVIL </station>
+        <ICAO>LFOH</ICAO>
+        <elevation>103</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.517</latitude>
+        <longitude>0.067</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ABBEVILLE (AUT)  </station>
+        <ICAO>LFOI</ICAO>
+        <elevation>77</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>50.117</latitude>
+        <longitude>1.817</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ORLEANS/BRICY(FA </station>
+        <ICAO>LFOJ</ICAO>
+        <elevation>125</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.967</latitude>
+        <longitude>1.75</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CHALONS/VATRY FA </station>
+        <ICAO>LFOK</ICAO>
+        <elevation>162</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.783</latitude>
+        <longitude>4.183</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ROUEN/BOOS (AUT) </station>
+        <ICAO>LFOP</ICAO>
+        <elevation>157</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.367</latitude>
+        <longitude>1.167</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CHARTRES/CHAMPOL </station>
+        <ICAO>LFOR</ICAO>
+        <elevation>156</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.467</latitude>
+        <longitude>1.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>VITTEFLEUR/ST. V </station>
+        <ICAO>LFOS</ICAO>
+        <elevation>83</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.817</latitude>
+        <longitude>0.65</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TOURS/ST SYMPHOR </station>
+        <ICAO>LFOT</ICAO>
+        <elevation>108</elevation>
+        <ISO-2>FR</ISO-2>
+        <IATA> TUF</IATA>
+        <latitude>47.433</latitude>
+        <longitude>0.717</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ST. QUENTIN/ROUP </station>
+        <ICAO>LFOW</ICAO>
+        <elevation>101</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.817</latitude>
+        <longitude>3.2</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PARIS/LE BOURGET </station>
+        <ICAO>LFPB</ICAO>
+        <elevation>65</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.967</latitude>
+        <longitude>2.45</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CREIL (FAFB)     </station>
+        <ICAO>LFPC</ICAO>
+        <elevation>88</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.25</latitude>
+        <longitude>2.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CHARLES DE GAULL </station>
+        <ICAO>LFPG</ICAO>
+        <elevation>109</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.017</latitude>
+        <longitude>2.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MELUN/VILLAROCHE </station>
+        <ICAO>LFPM</ICAO>
+        <elevation>92</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.617</latitude>
+        <longitude>2.667</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TOUSSUS LE NOBLE </station>
+        <ICAO>LFPN</ICAO>
+        <elevation>164</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.75</latitude>
+        <longitude>2.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PARIS/ORLY       </station>
+        <ICAO>LFPO</ICAO>
+        <elevation>96</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.717</latitude>
+        <longitude>2.383</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CORMEILLES VEXIN </station>
+        <ICAO>LFPT</ICAO>
+        <elevation>99</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.1</latitude>
+        <longitude>2.033</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>VILLACOUBLAY/VEL </station>
+        <ICAO>LFPV</ICAO>
+        <elevation>179</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.767</latitude>
+        <longitude>2.2</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PARIS MET CENTER </station>
+        <ICAO>LFPW</ICAO>
+        <elevation>75</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.817</latitude>
+        <longitude>2.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BRETIGNY-SUR-ORG </station>
+        <ICAO>LFPY</ICAO>
+        <elevation>85</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.6</latitude>
+        <longitude>2.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TROYES/BARBEREY  </station>
+        <ICAO>LFQB</ICAO>
+        <elevation>118</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.317</latitude>
+        <longitude>4.017</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ROUVRES (FR-ARMY </station>
+        <ICAO>LFQE</ICAO>
+        <elevation>234</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.217</latitude>
+        <longitude>5.667</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>NEVERS/FOURCHAMB </station>
+        <ICAO>LFQG</ICAO>
+        <elevation>181</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47</latitude>
+        <longitude>3.1</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CHATILLON-SUR-SE </station>
+        <ICAO>LFQH</ICAO>
+        <elevation>264</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.85</latitude>
+        <longitude>4.533</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CAMBRAI/EPINOY(F </station>
+        <ICAO>LFQI</ICAO>
+        <elevation>77</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>50.217</latitude>
+        <longitude>3.133</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LILLE/LESQUIN    </station>
+        <ICAO>LFQQ</ICAO>
+        <elevation>52</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>50.567</latitude>
+        <longitude>3.1</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CHARLEVILLE/MEZI </station>
+        <ICAO>LFQV</ICAO>
+        <elevation>150</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.767</latitude>
+        <longitude>4.617</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ANGERS/AVRILLE(A </station>
+        <ICAO>LFRA</ICAO>
+        <elevation>58</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.5</latitude>
+        <longitude>-0.567</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BREST/GUIPAVAS   </station>
+        <ICAO>LFRB</ICAO>
+        <elevation>103</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.45</latitude>
+        <longitude>-4.417</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CHERBOURG/MAUPER </station>
+        <ICAO>LFRC</ICAO>
+        <elevation>138</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.633</latitude>
+        <longitude>-1.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>DINARD/PLEURTUIT </station>
+        <ICAO>LFRD</ICAO>
+        <elevation>59</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.583</latitude>
+        <longitude>-2.067</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ST GATIEN        </station>
+        <ICAO>LFRG</ICAO>
+        <elevation>146</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.367</latitude>
+        <longitude>0.15</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LORIENT/LANN BIH </station>
+        <ICAO>LFRH</ICAO>
+        <elevation>44</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.767</latitude>
+        <longitude>-3.45</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LA ROCHE/LES AJO </station>
+        <ICAO>LFRI</ICAO>
+        <elevation>91</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.7</latitude>
+        <longitude>-1.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LANDIVISIAU (NAV </station>
+        <ICAO>LFRJ</ICAO>
+        <elevation>115</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.517</latitude>
+        <longitude>-4.15</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CAEN/CARPIQUET(A </station>
+        <ICAO>LFRK</ICAO>
+        <elevation>67</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.167</latitude>
+        <longitude>-0.45</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LANVEOC/POULMIC( </station>
+        <ICAO>LFRL</ICAO>
+        <elevation>82</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.267</latitude>
+        <longitude>-4.417</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LE MANS/ARNAGE(A </station>
+        <ICAO>LFRM</ICAO>
+        <elevation>52</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.917</latitude>
+        <longitude>0.2</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>RENNES/ST. JACQU </station>
+        <ICAO>LFRN</ICAO>
+        <elevation>37</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.067</latitude>
+        <longitude>-1.717</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LANNION/SERVEL   </station>
+        <ICAO>LFRO</ICAO>
+        <elevation>89</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.75</latitude>
+        <longitude>-3.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>QUIMPER/PLUGUFFA </station>
+        <ICAO>LFRQ</ICAO>
+        <elevation>94</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.967</latitude>
+        <longitude>-4.167</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>NANTES/CHATEAU B </station>
+        <ICAO>LFRS</ICAO>
+        <elevation>27</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.167</latitude>
+        <longitude>-1.6</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SAINT-BRIEUC ARM </station>
+        <ICAO>LFRT</ICAO>
+        <elevation>136</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.517</latitude>
+        <longitude>-2.85</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MORLAIX/PLOUJEAN </station>
+        <ICAO>LFRU</ICAO>
+        <elevation>86</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.6</latitude>
+        <longitude>-3.817</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ST. NAZAIRE/MONT </station>
+        <ICAO>LFRZ</ICAO>
+        <elevation>4</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.317</latitude>
+        <longitude>-2.167</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BESANCON/THISE(A </station>
+        <ICAO>LFSA</ICAO>
+        <elevation>309</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.25</latitude>
+        <longitude>5.967</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BALE/MULHOUSE    </station>
+        <ICAO>LFSB</ICAO>
+        <elevation>271</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.6</latitude>
+        <longitude>7.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>COLMAR/MEYENHEIM </station>
+        <ICAO>LFSC</ICAO>
+        <elevation>217</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.917</latitude>
+        <longitude>7.4</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>DIJON/LONGVIC(FA </station>
+        <ICAO>LFSD</ICAO>
+        <elevation>227</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.267</latitude>
+        <longitude>5.067</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>METZ/FRESCATY(FA </station>
+        <ICAO>LFSF</ICAO>
+        <elevation>191</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.067</latitude>
+        <longitude>6.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ST. DIZIER/ROBIN </station>
+        <ICAO>LFSI</ICAO>
+        <elevation>140</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.617</latitude>
+        <longitude>4.9</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TOUL/ROSIERES(FA </station>
+        <ICAO>LFSL</ICAO>
+        <elevation>298</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.767</latitude>
+        <longitude>5.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>NANCY/ESSEY      </station>
+        <ICAO>LFSN</ICAO>
+        <elevation>217</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.667</latitude>
+        <longitude>6.217</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>NANCY/OCHEY (FAF </station>
+        <ICAO>LFSO</ICAO>
+        <elevation>350</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.567</latitude>
+        <longitude>5.967</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PONTARLIER       </station>
+        <ICAO>LFSP</ICAO>
+        <elevation>817</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>46.883</latitude>
+        <longitude>6.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BELFORT/FONTAINE </station>
+        <ICAO>LFSQ</ICAO>
+        <elevation>423</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.617</latitude>
+        <longitude>6.867</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>REIMS/CHAMPAGNE  </station>
+        <ICAO>LFSR</ICAO>
+        <elevation>99</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>49.283</latitude>
+        <longitude>4.017</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>STRASBOURG/ENTZH </station>
+        <ICAO>LFST</ICAO>
+        <elevation>154</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>48.533</latitude>
+        <longitude>7.617</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LUXEUIL/ST. SAUV </station>
+        <ICAO>LFSX</ICAO>
+        <elevation>273</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.767</latitude>
+        <longitude>6.333</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PIERREFEN (NAVY) </station>
+        <ICAO>LFTF</ICAO>
+        <elevation>81</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.25</latitude>
+        <longitude>6.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>HYERES/LE PALYVE </station>
+        <ICAO>LFTH</ICAO>
+        <elevation>4</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.1</latitude>
+        <longitude>6.15</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>FREJUS/ST. RAPHA </station>
+        <ICAO>LFTU</ICAO>
+        <elevation>6</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.417</latitude>
+        <longitude>6.75</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>NIMES/GARONS (NA </station>
+        <ICAO>LFTW</ICAO>
+        <elevation>96</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>43.75</latitude>
+        <longitude>4.417</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>AMBERIEU (FAFB/A </station>
+        <ICAO>LFXA</ICAO>
+        <elevation>257</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>45.967</latitude>
+        <longitude>5.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>APT/ST. CHRISTOL </station>
+        <ICAO>LFXI</ICAO>
+        <elevation>837</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.033</latitude>
+        <longitude>5.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>NIERGNIES (FAFB) </station>
+        <ICAO>LFYG</ICAO>
+        <elevation>110</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>50.117</latitude>
+        <longitude>3.267</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BROYE-LES-PESMES </station>
+        <ICAO>LFYH</ICAO>
+        <elevation>208</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.333</latitude>
+        <longitude>5.517</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CAPTIEUX (MET/OB </station>
+        <ICAO>LFYJ</ICAO>
+        <elevation>133</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>44.167</latitude>
+        <longitude>-0.267</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LURE/MALBOUHANS  </station>
+        <ICAO>LFYL</ICAO>
+        <elevation>317</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.7</latitude>
+        <longitude>6.533</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ROMORANTIN/PRUNI </station>
+        <ICAO>LFYR</ICAO>
+        <elevation>86</elevation>
+        <ISO-2>FR</ISO-2>
+        <latitude>47.317</latitude>
+        <longitude>1.667</longitude>
+        <METAR_Station/>
+    </Station>
+</Stations>

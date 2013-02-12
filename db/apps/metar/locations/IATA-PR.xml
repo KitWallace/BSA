@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stations>
+    <Station>
+        <station>ALVERCA          </station>
+        <ICAO>LPAR</ICAO>
+        <elevation>3</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>38.883</latitude>
+        <longitude>-9.033</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SANTA MARIA ISLA </station>
+        <ICAO>LPAZ</ICAO>
+        <elevation>100</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>36.967</latitude>
+        <longitude>-25.167</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BRAGANCA         </station>
+        <ICAO>LPBG</ICAO>
+        <elevation>692</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>41.85</latitude>
+        <longitude>-6.7</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BEJA (POR/GER-AF </station>
+        <ICAO>LPBJ</ICAO>
+        <elevation>247</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>38.017</latitude>
+        <longitude>-7.867</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CORVO IS AZORES  </station>
+        <ICAO>LPCR</ICAO>
+        <elevation>26</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>39.667</latitude>
+        <longitude>-31.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>FLORES ISLAND    </station>
+        <ICAO>LPFL</ICAO>
+        <elevation>29</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>39.45</latitude>
+        <longitude>-31.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>FARO             </station>
+        <ICAO>LPFR</ICAO>
+        <elevation>4</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>37.017</latitude>
+        <longitude>-7.967</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>GRACIOSA IS AZOR </station>
+        <ICAO>LPGR</ICAO>
+        <elevation>26</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>39.1</latitude>
+        <longitude>-28.033</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>HORTA/FAIAL ISLA </station>
+        <ICAO>LPHR</ICAO>
+        <elevation>41</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>38.517</latitude>
+        <longitude>-28.717</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LAJES AB         </station>
+        <ICAO>LPLA</ICAO>
+        <elevation>55</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>38.767</latitude>
+        <longitude>-27.1</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>FUNCHAL/MADEIRA  </station>
+        <ICAO>LPMA</ICAO>
+        <elevation>55</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>32.667</latitude>
+        <longitude>-16.767</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MONTE REAL(POR-A </station>
+        <ICAO>LPMR</ICAO>
+        <elevation>54</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>39.817</latitude>
+        <longitude>-8.867</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MONTIJO (POR-AFB </station>
+        <ICAO>LPMT</ICAO>
+        <elevation>11</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>38.7</latitude>
+        <longitude>-9.05</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>OTA (POR-AFB)    </station>
+        <ICAO>LPOT</ICAO>
+        <elevation>49</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>39.117</latitude>
+        <longitude>-8.967</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>OVAR MIL         </station>
+        <ICAO>LPOV</ICAO>
+        <elevation>17</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>40.917</latitude>
+        <longitude>-8.65</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PONTA DELGADA/NO </station>
+        <ICAO>LPPD</ICAO>
+        <elevation>72</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>37.717</latitude>
+        <longitude>-25.683</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>RPICO IS AZORES  </station>
+        <ICAO>LPPI</ICAO>
+        <elevation>33</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>38.55</latitude>
+        <longitude>-28.433</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PORTO/PEDRAS RUB </station>
+        <ICAO>LPPR</ICAO>
+        <elevation>73</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>41.217</latitude>
+        <longitude>-8.667</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PORTO SANTO ISLA </station>
+        <ICAO>LPPS</ICAO>
+        <elevation>82</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>33.067</latitude>
+        <longitude>-16.35</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LISBON/PORTELA   </station>
+        <ICAO>LPPT</ICAO>
+        <elevation>123</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>38.767</latitude>
+        <longitude>-9.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SINTRA/GRANJA (A </station>
+        <ICAO>LPST</ICAO>
+        <elevation>130</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>38.817</latitude>
+        <longitude>-9.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TANCOS (POR-AFB) </station>
+        <ICAO>LPTN</ICAO>
+        <elevation>80</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>39.467</latitude>
+        <longitude>-8.417</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>VILA REAL        </station>
+        <ICAO>LPVR</ICAO>
+        <elevation>562</elevation>
+        <ISO-2>PT</ISO-2>
+        <latitude>41.267</latitude>
+        <longitude>-7.717</longitude>
+        <METAR_Station/>
+    </Station>
+</Stations>

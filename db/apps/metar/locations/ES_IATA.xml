@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stations>
+    <Station>
+        <station>ALBACETE (CIV/MI </station>
+        <ICAO>LEAB</ICAO>
+        <elevation>704</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>38.95</latitude>
+        <longitude>-1.85</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ALICANTE/EL ALTE </station>
+        <ICAO>LEAL</ICAO>
+        <elevation>31</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>38.267</latitude>
+        <longitude>-0.55</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ALMERIA AIRPORT  </station>
+        <ICAO>LEAM</ICAO>
+        <elevation>21</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>36.85</latitude>
+        <longitude>-2.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ASTURIAS/AVILES  </station>
+        <ICAO>LEAS</ICAO>
+        <elevation>134</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>43.533</latitude>
+        <longitude>-6.017</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CORDOBA AIRPORT  </station>
+        <ICAO>LEBA</ICAO>
+        <elevation>92</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>37.85</latitude>
+        <longitude>-4.817</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BILBAO/SONDICA   </station>
+        <ICAO>LEBB</ICAO>
+        <elevation>34</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>43.283</latitude>
+        <longitude>-2.917</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BURGOS/VILLAFRIA </station>
+        <ICAO>LEBG</ICAO>
+        <elevation>891</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>42.367</latitude>
+        <longitude>-3.617</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BARCELONA AIRPOR </station>
+        <ICAO>LEBL</ICAO>
+        <elevation>6</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>41.267</latitude>
+        <longitude>2.067</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>BARDENAS REALES  </station>
+        <ICAO>LEBR</ICAO>
+        <elevation>295</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>42.2</latitude>
+        <longitude>-1.433</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TALAVERA AB/BADA </station>
+        <ICAO>LEBZ</ICAO>
+        <elevation>192</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>38.867</latitude>
+        <longitude>-6.817</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>CALAMOCHA        </station>
+        <ICAO>LECH</ICAO>
+        <elevation>899</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>40.867</latitude>
+        <longitude>-1.3</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LA CORUNA/ALVEDR </station>
+        <ICAO>LECO</ICAO>
+        <elevation>103</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>43.283</latitude>
+        <longitude>-8.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MADRI-COLMENAR   </station>
+        <ICAO>LECV</ICAO>
+        <elevation>710</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>40.633</latitude>
+        <longitude>-3.717</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ARMILLA (CIV/MIL </station>
+        <ICAO>LEGA</ICAO>
+        <elevation>686</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>37.117</latitude>
+        <longitude>-3.617</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>GERONA/COSTA BRA </station>
+        <ICAO>LEGE</ICAO>
+        <elevation>129</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>41.883</latitude>
+        <longitude>2.767</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>GRANADA AIRPORT  </station>
+        <ICAO>LEGR</ICAO>
+        <elevation>559</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>37.167</latitude>
+        <longitude>-3.767</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MADRID/GETAFE (A </station>
+        <ICAO>LEGT</ICAO>
+        <elevation>612</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>40.283</latitude>
+        <longitude>-3.717</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>HUESCA-PIRINEOS  </station>
+        <ICAO>LEHC</ICAO>
+        <elevation>539</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>42.083</latitude>
+        <longitude>-0.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>HINOJOSA DEL DUQ </station>
+        <ICAO>LEHI</ICAO>
+        <elevation>534</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>38.517</latitude>
+        <longitude>-5.117</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>IBIZA/ES CODOLA  </station>
+        <ICAO>LEIB</ICAO>
+        <elevation>12</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>38.867</latitude>
+        <longitude>1.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>JEREZ (CIV/MIL)  </station>
+        <ICAO>LEJR</ICAO>
+        <elevation>30</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>36.75</latitude>
+        <longitude>-6.067</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SAN JAVIER(MIL/C </station>
+        <ICAO>LELC</ICAO>
+        <elevation>3</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>37.767</latitude>
+        <longitude>-0.8</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SABADELL         </station>
+        <ICAO>LELL</ICAO>
+        <elevation>250</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>41.517</latitude>
+        <longitude>2.1</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LEON/VIRGEN CAMI </station>
+        <ICAO>LELN</ICAO>
+        <elevation>914</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>42.567</latitude>
+        <longitude>-5.65</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LOGRONO/AGONCILL </station>
+        <ICAO>LELO</ICAO>
+        <elevation>363</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>42.45</latitude>
+        <longitude>-2.317</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MADRID/BARAJAS   </station>
+        <ICAO>LEMD</ICAO>
+        <elevation>582</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>40.45</latitude>
+        <longitude>-3.533</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MALAGA (CIV/MIL) </station>
+        <ICAO>LEMG</ICAO>
+        <elevation>7</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>36.667</latitude>
+        <longitude>-4.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MAHON/MENORCA IS </station>
+        <ICAO>LEMH</ICAO>
+        <elevation>82</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>39.867</latitude>
+        <longitude>4.217</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MORON (SP-USAFB) </station>
+        <ICAO>LEMO</ICAO>
+        <elevation>88</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>37.133</latitude>
+        <longitude>-5.617</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PALMA DE MALLORC </station>
+        <ICAO>LEPA</ICAO>
+        <elevation>8</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>39.533</latitude>
+        <longitude>2.717</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>PAMPLONA/NOAIN   </station>
+        <ICAO>LEPP</ICAO>
+        <elevation>459</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>42.767</latitude>
+        <longitude>-1.617</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ALCANTARILLA(SP- </station>
+        <ICAO>LERI</ICAO>
+        <elevation>75</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>37.95</latitude>
+        <longitude>-1.217</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>REUS (CIV/MIL)   </station>
+        <ICAO>LERS</ICAO>
+        <elevation>76</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>41.133</latitude>
+        <longitude>1.167</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ROTA NAVAL STATI </station>
+        <ICAO>LERT</ICAO>
+        <elevation>26</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>36.633</latitude>
+        <longitude>-6.333</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ROTA NAVAL STATI </station>
+        <ICAO>KQNR</ICAO>
+        <elevation>26</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>36.633</latitude>
+        <longitude>-6.333</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SALAMANCA (CIV/M </station>
+        <ICAO>LESA</ICAO>
+        <elevation>795</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>40.95</latitude>
+        <longitude>-5.5</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SAN SEBASTIAN/FU </station>
+        <ICAO>LESO</ICAO>
+        <elevation>8</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>43.35</latitude>
+        <longitude>-1.8</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SANTIAGO/LABACOL </station>
+        <ICAO>LEST</ICAO>
+        <elevation>367</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>42.883</latitude>
+        <longitude>-8.417</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SEVILLA/TABLADA  </station>
+        <ICAO>LETA</ICAO>
+        <elevation>14</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>37.367</latitude>
+        <longitude>-6</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TORREJON (USAFB) </station>
+        <ICAO>LETO</ICAO>
+        <elevation>608</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>40.467</latitude>
+        <longitude>-3.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>VALENCIA (CIV/MI </station>
+        <ICAO>LEVC</ICAO>
+        <elevation>62</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>39.5</latitude>
+        <longitude>-0.467</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>VALLADOLID(MIL/C </station>
+        <ICAO>LEVD</ICAO>
+        <elevation>854</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>41.717</latitude>
+        <longitude>-4.833</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MADRID/CUATRO VI </station>
+        <ICAO>LEVS</ICAO>
+        <elevation>687</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>40.367</latitude>
+        <longitude>-3.767</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>VITORIA          </station>
+        <ICAO>LEVT</ICAO>
+        <elevation>509</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>42.867</latitude>
+        <longitude>-2.717</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>VIGO/PEINADOR    </station>
+        <ICAO>LEVX</ICAO>
+        <elevation>256</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>42.217</latitude>
+        <longitude>-8.617</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SANTANDER/PARAYA </station>
+        <ICAO>LEXJ</ICAO>
+        <elevation>6</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>43.417</latitude>
+        <longitude>-3.817</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ZARAGOZA (USAFB) </station>
+        <ICAO>LEZA</ICAO>
+        <elevation>263</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>41.667</latitude>
+        <longitude>-1.05</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ZARAGOZA (MIL/CI </station>
+        <ICAO>LEZG</ICAO>
+        <elevation>258</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>41.667</latitude>
+        <longitude>-1.017</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>SEVILLA (CIV/MIL </station>
+        <ICAO>LEZL</ICAO>
+        <elevation>31</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>37.417</latitude>
+        <longitude>-5.9</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>FUERTEVENTURA AR </station>
+        <ICAO>GCFV</ICAO>
+        <elevation>23</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>28.433</latitude>
+        <longitude>-13.867</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>HIERRO AIRPORT   </station>
+        <ICAO>GCHI</ICAO>
+        <elevation>30</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>27.817</latitude>
+        <longitude>-17.867</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LA PALMA AIRPORT </station>
+        <ICAO>GCLA</ICAO>
+        <elevation>31</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>28.617</latitude>
+        <longitude>-17.75</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>LAS PALMAS/GANDO </station>
+        <ICAO>GCLP</ICAO>
+        <elevation>25</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>27.917</latitude>
+        <longitude>-15.367</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>ARRECIFE/LANZARO </station>
+        <ICAO>GCRR</ICAO>
+        <elevation>40</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>28.933</latitude>
+        <longitude>-13.583</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TENERIFE SUR/REI </station>
+        <ICAO>GCTS</ICAO>
+        <elevation>72</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>28.05</latitude>
+        <longitude>-16.567</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>TENERIFE/LOS ROD </station>
+        <ICAO>GCXO</ICAO>
+        <elevation>632</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>28.483</latitude>
+        <longitude>-16.35</longitude>
+        <METAR_Station/>
+    </Station>
+    <Station>
+        <station>MELILLA          </station>
+        <ICAO>GEML</ICAO>
+        <elevation>55</elevation>
+        <ISO-2>ES</ISO-2>
+        <latitude>35.267</latitude>
+        <longitude>-2.95</longitude>
+        <METAR_Station/>
+    </Station>
+</Stations>
