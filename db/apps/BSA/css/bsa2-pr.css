@@ -1,0 +1,124 @@
+body {
+    padding-right:50px; 
+    padding-left: 50px; 
+    background-color:#5ED0BD;
+
+}
+
+#content {
+    font-family: Georgia;
+    letter-spacing: 0;
+    line-height: 1.4em;
+    font-size: 1.2em;
+    background-color: #F0FFFF;
+    padding-left:30px;
+}
+
+
+#head { display:none;
+   padding-top:10px;
+   padding-right: 50px;
+   border: solid 1px #222;
+   background-color: #F0FFFF;
+
+}
+#nav { 
+   padding-top:10px; 
+   font-family: verdana;
+   font-style:oblique;
+}
+
+#nav span {
+    padding:3px;   
+    font-size:12pt;
+}
+
+  
+a.external {
+    background-image: url('../../../images/Icon_External_Link.png');
+    padding-right: 12px;
+    text-decoration: none;
+    background-position: right;
+    background-repeat:no-repeat;
+}
+
+a img {
+    border:none;
+}
+a {
+    text-decoration:none;
+    color: #447BD4;
+}
+a.action {
+    color: red;
+}
+a:visited {
+    color: #104BA9;
+}
+h1,h2,h3 {
+    font-family:verdana, sans-serif;
+    color: #006957;
+    padding-top:20px;
+    margin-bottom:10px;
+}
+h1 {
+    font-size:18pt;
+    margin-bottom:10px;
+}
+h2 {
+    font-size: 16pt;
+}
+h3 {
+    font-size:14pt;
+}
+
+table {padding-left:15px;}
+th {
+    font-size:12pt;
+    font-weight:normal;
+    text-align:left;
+    font-family: verdana;
+    font-style:oblique;
+    color: #006957;
+ }
+th, td {padding-right:30px; }
+
+td {text-align: left;}
+
+.list {font-size:14pt;}
+
+#home {font-weight: bold;
+}
+
+.route p:first-letter {
+    font-size:120%; font-weight:500;
+    }
+.annotation {display:none;}
+
+.mapdata {display: none}
+#heading {position: static;}
+#paragraphs {position:relative; left:0; width:90%;height:500px; overflow:auto;}
+
+#info {position:absolute; left:75px; right:75px; top:650px; }
+#map_canvas {position: absolute;  width: 70%; top:135px; height:500px; border: 1px solid black; }
+
+#text {position:relative; left:0; height:20000px; width:60%; }
+#photo {position: absolute; left:62%; width: 35%;  top:150px;}
+
+.photo {padding:15px;  }
+.photo img {border: 1px solid black; width:85%}
+.photo h4 {text-align: left;}
+
+.note {font-style:italic; display: inline}
+#annotationData {position: absolute; right:10px; width: 45%;  height:500px;}
+#footer {position:static}
+#mapInfo {display:none;}
+#search {font-size:large;}
+.required {background-color:pink}
+.selected {
+  color: #FFF;
+  background-color: #900;
+  font-weight: bold;
+}
+dt {font-style:italic; }
+.running {background-color:red}

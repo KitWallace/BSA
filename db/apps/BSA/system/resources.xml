@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources name="BSA" base="/db/apps/BSA">
+    <resource path="home.xq">
+        <description>BSA main page</description>
+    </resource>
+    <resource path="xquery/annotate.xq">
+        <description>called by ajax to edit annotations in a trip</description>
+    </resource>
+    <resource path="xquery/search.xq">
+        <description>called by ajax to search for a location</description>
+    </resource>
+    <resource path="utils">
+        <description>various utility</description>
+    </resource>
+    <resource path="lib/bsa.xqm">
+        <description>The main function module</description>
+    </resource>
+    <resource path="lib/anot.xqm">
+        <description>Functions to edit annotations</description>
+    </resource>
+    <resource path="system/config.xml">
+        <description>configuration file</description>
+    </resource>
+    <resource path="system/resources.xml">
+        <description>this resource  file</description>
+    </resource>
+    <resource path="system/users.xml">
+        <description>user logins</description>
+    </resource>
+    <resource path="system/schema.xml">
+        <description>data model schema</description>
+    </resource>
+    <resource path="data">
+        <description>entity data - routes, persons, organisations etc</description>
+    </resource>
+    <resource path="images">
+        <description>images eg background etc</description>
+    </resource>
+    <resource path="photos">
+        <description>photos</description>
+    </resource>
+    <resource path="trips">
+        <description>The extracted trip documents</description>
+    </resource>
+    <resource path="docs">
+        <description>Supporting html documents</description>
+    </resource>
+    <resource path="forecasts">
+        <description>Selected Shipping forecasts as text files</description>
+    </resource>
+    <resource path="newsletters">
+        <description>The newsletter XML as saved from the Word documents </description>
+    </resource>
+    <resource path="css/bsa2.css">
+        <description>Screen CSS</description>
+    </resource>
+    <resource path="css/bsa2-pr.css">
+        <description>Printer CSS</description>
+    </resource>
+    <resource path="jscript/viewmap.js">
+        <description>View route on a Google map </description>
+    </resource>
+    <resource path="jscript/create.js">
+        <description>Extract a trip from a newsletter</description>
+    </resource>
+    <resource path="jscript/editnotes.js">
+        <description>annotation editing </description>
+    </resource>
+    <resource path="jscript/editmap.js">
+        <description>route editing using Google map</description>
+    </resource>
+    <resource path="/db/apps/metar/metar.xqm">
+        <description>for getting metar reports</description>
+    </resource>
+    <resource path="/db/apps/metar/locations">
+        <description>Metar stationdata </description>
+    </resource>
+    <resource path="/db/lib/date.xqm">
+        <description>Date handling</description>
+    </resource>
+    <resource path="/db/lib/ui.xqm">
+        <description>For getting queries</description>
+    </resource>
+    <resource path="/db/apps/ms/ms.xqm">
+        <description>Accessing Microsoft XML</description>
+    </resource>
+    <resource path="/db/lib/wfn.xqm">
+        <description>Various support functions</description>
+    </resource>
+    <resource path="/db/jscript/sorttable.js">
+        <description>Script to enable tables to be sortable </description>
+    </resource>
+    <resource path="/db/apps/sys/jobs.xsl">
+        <description>The stylesheet for displaying jobs.xml</description>
+    </resource>
+    <resource path="/db/jscript/jquery.metadata.js">
+        <description>The JQuery metadata plugin</description>
+    </resource>
+    <resource path="/system/config/db/apps/BSA">
+        <descriptihtton>index configurations</descriptihtton>
+    </resource>
+</resources>

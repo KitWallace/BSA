@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div id="about">
+    <h1>Bristol Sailing Association</h1>
+    <h3>The Association</h3>
+    <p>We are a group of people who have a common interest in sail cruising. Most of us are not
+        yacht owners. The Association is non profit-making, and arranges around 25 weekends and
+        weeks each year when yachts are chartered according to the wishes of members. Mostly the
+        yachts are used for cruising. However, club crews also take part in three or four races a
+        year. </p>
+    <h3>Contacts</h3>
+    <table>
+        <tr>
+            <th>Commodore</th>
+            <td>
+                <a href="?mode=view&amp;type=Person&amp;id=Kath Liddiard">Kath Liddiard</a>
+            </td>
+        </tr>
+        <tr>
+            <th>Secretary</th>
+            <td>
+                <a href="?mode=view&amp;type=Person&amp;id=Jock Playle">Jock Playle</a>
+            </td>
+        </tr>
+        <tr>
+            <th>Treasurer</th>
+            <td>
+                <a href="?mode=view&amp;type=Person&amp;id=Jane Jenkyn">Jane Jenkyn</a>
+            </td>
+        </tr>
+        <tr>
+            <th>Webmaster</th>
+            <td>
+                <a href="?mode=view&amp;type=Person&amp;id=Chris Wallace">Chris Wallace</a>
+            </td>
+        </tr>
+    </table>
+    <h3>Meetings</h3>
+    <p>On board the barge <a href="?mode=view&amp;type=Location&amp;id=Sabrina 6">Sabrina
+            6</a> on the second Monday of each month at 8 pm. Visitors welcome.</p>
+    <h3>Further Information</h3>
+    <ul>
+        <li>
+            <a href="?mode=page&amp;id=faq">Frequently Asked Questions</a>
+        </li>
+        <li>
+            <a href="?mode=page&amp;id=help">Help using the site</a>
+        </li>
+        <li>
+            <a href="?mode=page&amp;id=editing">Help with editing</a>
+        </li>
+        <li>
+            <a href="?mode=page&amp;id=dev">Website development</a>
+        </li>
+    </ul>
+</div>

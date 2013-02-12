@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-info>
+    <id>bsa</id>
+    <name>Bristol Sailing Association</name>
+    <version>3.0</version>
+    <description>A website for my sailing association.</description>
+    <creator>Chris Wallace</creator>
+    <db>/db/apps/BSA/</db>
+    <web-page>http://webapps.kitwallace.me/exist/rest/db/apps/BSA/</web-page>
+    <trip-id>216</trip-id>
+    <users>/db/apps/BSA/system/users.xml</users>
+</app-info>

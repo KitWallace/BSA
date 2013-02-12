@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <entity name="Trip">
+        <attribute name="id" type="string" primarykey="true">
+            <comment>the identifier for the trip. </comment>
+        </attribute>
+        <attribute name="newsletter" type="Newsletter">
+            <comment>The newsletter in which the trip report was published</comment>
+        </attribute>
+        <attribute name="firstPara" type="integer">
+            <comment>The first paragraph of the report within the newsletter </comment>
+        </attribute>
+        <attribute name="lastPara" type="integer">
+            <comment>The last paragraph of the report within the newsletter </comment>
+        </attribute>
+    </entity>
+    <entity name="Photo">
+        <attribute name="id" primary-key="true"/>
+        <attribute name="user" computed="true">
+            <compute>session:get-attribute("user")</compute>
+        </attribute>
+        <attribute name="date-created" type="date" computed="true">
+            <compute>current-dateTime()</compute>
+        </attribute>
+        <attribute name="file" type="file"/>
+        <attribute name="date"/>
+        <attribute name="vessel" min="0"/>
+        <attribute name="place" min="0"/>
+        <attribute name="caption"/>
+        <attribute name="photographer"/>
+    </entity>
+    <entity name="p" html="div">
+        <parent>Trip</parent>
+    </entity>
+    <entity name="vessel" title="Vessel" html="span">
+        <attribute name="name" type="string" min="0" is-selection="true"/>
+        <attribute name="type" type="string" min="0"/>
+        <attribute name="charteredFrom" type="string" min="0"/>
+        <comment>a vessel in a report</comment>
+        <parent>p</parent>
+    </entity>
+    <entity name="skipper" title="Skipper" html="span">
+        <attribute name="name" type="string" min="1" is-selection="true"/>
+        <comment>the name of the skipper</comment>
+        <parent>p</parent>
+    </entity>
+    <entity name="crew" title="Crew" html="span" multiple="true">
+        <attribute name="name" type="string" min="1" is-selection="true"/>
+        <comment>the name of a member of the crew or several separated by , </comment>
+        <parent>p</parent>
+    </entity>
+    <entity name="startDate" title="Start Date" html="span">
+        <attribute name="date" type="date" is-selection="true">
+            <compute>date:date-from-string($value)</compute>
+            <comment>startDate of a trip - eg 12 Sept 2011 </comment>
+        </attribute>
+        <attribute name="days" type="integer">
+            <comment>length of trip in days </comment>
+        </attribute>
+        <parent>p</parent>
+    </entity>
+    <entity name="wp" title="Waypoint" class="map" html="span">
+        <attribute name="name" type="string" min="0" size="20" is-selection="true">
+            <comment>The location name</comment>
+        </attribute>
+        <attribute name="lat" type="decimal" min="0" size="6">
+            <comment>Latitude in decimal degrees N +ve</comment>
+        </attribute>
+        <attribute name="long" type="decimal" min="0" size="6">
+            <comment>Longitude in decimal degrees E +ve</comment>
+        </attribute>
+        <attribute name="day" type="integer" min="0" size="2">
+            <comment>Day number relative to the startDate (day 1)</comment>
+        </attribute>
+        <attribute name="time" type="time" min="0" size="5">
+            <compute>date:time-from-string($value)</compute>
+        </attribute>
+        <comment>Add a location + optional day and time </comment>
+        <parent>p</parent>
+    </entity>
+    <entity name="link" title="Web link" html="span">
+        <attribute name="name" type="string" min="1" is-selection="true"/>
+        <attribute name="url" type="url" min="1" width="100"/>
+        <comment>link to a webpage</comment>
+        <parent>p</parent>
+    </entity>
+</schema>

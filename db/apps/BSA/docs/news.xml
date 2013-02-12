@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+    <item datetime="2013-01-17T17:44:00" by="Chris Wallace">
+        <title>January 2013  The social evening and some Flags</title>
+        <content>
+            <p>We enjoyed a social evening in January with  excellent food and a challenging quiz.  Most challenging to some of us was the page of 
+                <a href="http://en.wikipedia.org/wiki/International_maritime_signal_flags">maritime signal flags.</a>. So I devised a <a href="xquery/flags.xq">web page</a> to learn or revise the flags, their letters and their meaning. Enjoy.
+            </p>
+            <p>Chris Wallace </p>
+        </content>
+    </item>
+</news>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div id="editing">
+    <h2>Using the editor</h2>
+    <dl>
+        <dt>How do I register to be an editor?</dt>
+        <dd>Follow <a href="?mode=register-form">this link</a>, complete your registration details
+            together with the secret which you have been given. When you have successfully
+            registered, you will be taken to the login form. </dd>
+        <dt>How do I login?</dt>
+        <dd>Starting at the editor, click on <b>Login</b>, fill in your username and password and
+            login. You will be directed back to the home page.</dd>
+        <dt>How do I extract a trip report from a newsletter?</dt>
+        <dd>
+            <ul>
+                <li>Click on <b>Newsletters</b> in the menu bar.</li>
+                <li>You will see a list of issues, some of which have had trips extracted. (There
+                    are usually several per newsletter). There is also a form for uploading a
+                    newsletter. </li>
+                <li>Scroll down to find the newsletter you want to edit and click on <b>Extract
+                        Trips</b>. If you can't see this link, you haven logged in yet. </li>
+                <li>The newsletter is shown as a series of simple paragraphs. Scroll down the
+                    newsletter to find the section which deals with a trip. Trips which have already
+                    been extracted are greyed out.</li>
+                <li>Select the full text of the trip and click on <b>Select Text</b>. The first and
+                    last paragraph numbers will be displayed </li>
+                <li>When happy, click <b>Create Trip</b>. If the entry passes basic validation, the
+                    Trip will be saved and you can then go on to annotate it</li>
+            </ul>
+        </dd>
+        <dt>What does the annotator do?</dt>
+        <dd>The annotator allows you to add additional data to the trip by entering it in the form
+            below the map.</dd>
+        <dt>What trip data can I enter?</dt>
+        <dd>Any or all of the following: <ul>
+                <li>Start Date : used to order trips chronologically</li>
+                <li>Vessel name, type and organisation</li>
+                <li>Skipper name </li>
+                <li>Crew names</li>
+                <li>Waypoints</li>
+                <li>Shipping Forecasts</li>
+                <!--                <li>Web links</li>   -->
+            </ul>
+        </dd>
+        <dt>How do I enter the vessel name?</dt>
+        <dd>Find the name of the vessel in the text. Select this text and click the <b>Vessel</b>
+            button. The selected text appears in the <b>name</b> field. Vessel names start with a
+            capital letter and are lower-case so you may need to edit the name text. You can also
+            add the vessel type and the name of the organisation from which it is chartered. When
+            the information has been entered, click the <b>Add</b> button. The trip will be updated
+            and the text highlighted in bold. </dd>
+        <dt>How do I save the changes I made?</dt>
+        <dd>Changes are saved each time you add an annotation. You will see the form flash red
+            briefly as the change is made.</dd>
+        <dt>How do I delete an annotation?</dt>
+        <dd>Select some text within the annotation. The form will show the type of annotation and
+            the associated date. If this is the one you want to delete, click <b>Delete
+                Annotation</b>
+        </dd>
+        <dt>How do I update an annotation?</dt>
+        <dd>Put the cursor in the annotation and click the right button. The fields in the form will
+            be set to the values in this annotation. Change any value and when satisfied, click
+                <b>Replace</b>
+        </dd>
+        <dt>How do I edit the crew list?</dt>
+        <dd>Select the part of the text which lists the crew and click <b>Crewlist</b>. The list can
+            contain commas and 'and' but edit the list if it has other text. When happy, click
+                <b>add</b>. Each of the names will be marked as a crew member. </dd>
+        <dt>I've found a point in the report where I want to add a Waypoint. How do I get its
+            latitude and longitude?</dt>
+        <dd>If there is a location name in the text, select the text and click the <b>Waypoint</b>
+            button. The text will appear in the <b>Name</b> Field. To find the latitude and
+            longitude of that location, click <b>Find Location</b>. The application will check to
+            see if that name has already being used on this or other trips. If it is not already
+            known, Google will try to find where that is. If a location is found, the red marker
+            will be moved to that place on the map and the map centred on the location. The text
+            will also appear in the Location field, so if this is the wrong place you can edit the
+                <b>Name</b>, clear the lat/long and try again. </dd>
+        <dt>What if there isn't a name?</dt>
+        <dd>Select some descriptive text at the right place in the text and click <b>Waypoint</b>.
+            Enter a suitable place name in the <b>Name</b> field. It's important that this name be
+            chosen carefully so that the waypoint can be reused in other trips. Click <b>Find
+                Location</b>. When the marker is in the right place, click <b>Add</b>.</dd>
+        <dt>The marker is in roughly the right place but not quite. How do I change it?</dt>
+        <dd>Drag the red marker to the right position. You can change the level of zoom on the
+            slider. The latitude and longitude is shown in the form and changes as you move the
+            marker.</dd>
+        <dt>How do I insert a waypoint into the report?</dt>
+        <dd>Having found the coordinates of the location, you can add a day number and a time. This
+            enables the weather at that time to be found. When you are happy with the data, select a
+            fragment of text in the document which relates to this location and click <b>Add</b>.
+            The Waypoint annotation will be added and a map marker appears in the text. </dd>
+        <!--      <dt>How do I insert a forecast?</dt>
+        <dd>Select the text where the forecast is mentioned and click<b>Forecast</b>. Enter the
+        relevant day number and time in the form and click <b>Add</b>
+        </dd>
+    -->
+        <dt>How can I mark the crew list?</dt>
+        <dd>Select the list of crew names and click <b>Crew List</b>.The list of names can contain
+            commas and <b>add</b>. If Ok, click <b>Add</b>. This should annotate each name as a crew
+            member.</dd>
+        <dt>A crew name is only the first name - how do I enter the full name?</dt>
+        <dd>The full name should be provided so that all that person's trips can be found. Click on
+            the name, edit the <b>Name</b> field and click <b>Replace</b>
+        </dd>
+        <dt>How can I view the annotated report?</dt>
+        <dd>Click <b>View Trip</b> in the menu bar. There will be a bit of a pause whilst weather
+            data is retrieved and added to the site so it is available when viewing the trip
+            report.</dd>
+    </dl>
+</div>

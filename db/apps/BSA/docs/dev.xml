@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div id="dev">
+    <h2>Website Development</h2>
+    <p>This prototype website is under development and subject to change. There are bugs but also
+        the chance to suggest new features. You might also like to help me develop and test the
+        editor, for which you will need a username and password. All comments and requests to the
+        webmaster. Some background to the project is in my <a href="http://kitwallace.posterous.com/46561020">blog</a>
+    </p>
+    <p>The photos used are only a temporary selection pending submission of club photos.</p>
+    <h3>Technology</h3>
+    <div>
+      This site uses the following technology:
+      <ul>
+            <li>
+                <a href="http://exist-db.org">eXist XML Database</a>
+            </li>
+            <li>XQuery and JavaScript languages</li>
+            <li>XML for data formating</li>
+            <li>
+                <a href="http://jquery.com/">jQuery </a>Javascript extension</li>
+            <li>
+                <a href="http://code.google.com/apis/maps/documentation/javascript/">Google Map API</a>
+            </li>
+            <li>
+                <a href="http://bitfolk.co.uk/">Bitfolk</a> VPS
+            </li>
+        </ul>
+    </div>
+    <p style="font-size:small">
+        <a href="http://kitwallace.co.uk">Kit Wallace</a>
+    </p>
+</div>
