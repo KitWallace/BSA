@@ -10,7 +10,7 @@ import module namespace anot ="http://kitwallace.me/anot" at "../lib/anot.xqm";
 
 declare namespace kml = "http://www.opengis.net/kml/2.2";
 declare variable $bsa:db := "/db/apps/BSA/";
-declare variable $bsa:secret :="sabrina6";
+declare variable $bsa:secret :="*******";
 declare variable $bsa:config := doc(concat($bsa:db,"system/config.xml"))/app-info;
 declare variable $bsa:schema := doc(concat($bsa:db,"system/schema.xml"))/schema;
 declare variable $bsa:web-page := $bsa:config/web-page;
@@ -1295,6 +1295,27 @@ return
 };
 
 
+declare function bsa:home($query) as element(div)* {
+
+<div class="page">
+  <div id="leftside">
+     {collection(concat($bsa:db,"docs"))/div[@id="about"]}
+     {if ($query/user) 
+      then 
+      <div>
+        <h3>Admin functions </h3>
+        <ul>
+            <li> <a href="{$bsa:config/zipappresource}">View/Export Application code</a></li>
+            <li> <a href="{$bsa:config/zipappdata}">View/Export Application data</a></li>       
+        </ul>
+      </div>
+      else ()
+     }
+  </div>
+  {bsa:photo-selection(2)}
+</div>
+};
+
 (: ------------------- Main ------------------------ :) 
 (:
   gather the URL parameters into an XML structure which is then passed around most functions
@@ -1358,7 +1379,7 @@ let $mode := $query/mode
 let $type := $query/type
 return
 if ($mode="search") then bsa:search($query)
-else if ($mode="home") then bsa:page("about")
+else if ($mode="home") then bsa:home($query)  (: bsa:page("about") :)
 else if ($mode="page") then bsa:page($query/id)
 else if ($mode="list") then 
     if ($query/type = "Trip")
@@ -1443,7 +1464,7 @@ then
      then  
       (  <script type="text/javascript" src="jscript/editnotes.js"></script>,
          <script type="text/javascript" src="jscript/editmap.js"></script>,
-      let $trip := bsa:trip(id=$query/id)
+      let $trip := bsa:trip($query/id)
       let $position := bsa:start-position($trip) 
       return 
      <script type="text/javascript">
