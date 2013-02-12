@@ -4,19 +4,17 @@
     <p>This site contains information on trips, yachts, places and people, interlinked and mapped.
         The aim is present the members' sailing trips enhanced with the route of the trip, the
         weather and shipping forecast at the time. <ul>
-            <li>Click on the blue text or flag to follow a link.</li>
-            <li>The <img src="../images/sailing.png" width="16px"> links to a trip</img>
-            </li>
+            <li>Click on the blue text or flag to follow a link.  The date links to a trip.</li>
             <li>Links decorated with an <a class="external" href="http://en.wikipedia.org/wiki/arrow">Arrow</a> are to pages outside the
             site.</li>
-            <li>Tables are sortable - click on the heading</li>
+            <li>Tables are sortable - click on a column heading</li>
         </ul>
     </p>
     <h2>How it works</h2>
     <p>Newsletters are distributed as Word Documents. Each is saved as an XML file and uploaded to
         the database. Trip reports can then be extracted from the text and then updated with
         annotations. Each annotation establishes a fact about the trip: who is the skipper, which
-        boat was used, who the crew were, when the trip started; and also points of interest in the
+        boat was used, who was a member of the crew, when the trip started; and also points of interest in the
         trip and shipping forecasts. </p>
     <p>This information allows trips, people, locations and vessels to be interlinked. The view of a
         trip displays the route of the trip, together with the nearest weather for that place and

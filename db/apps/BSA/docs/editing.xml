@@ -17,7 +17,7 @@
                     are usually several per newsletter). There is also a form for uploading a
                     newsletter. </li>
                 <li>Scroll down to find the newsletter you want to edit and click on <b>Extract
-                        Trips</b>. If you can't see this link, you haven logged in yet. </li>
+                        Trips</b>. If you can't see this link, you haven't logged in yet. </li>
                 <li>The newsletter is shown as a series of simple paragraphs. Scroll down the
                     newsletter to find the section which deals with a trip. Trips which have already
                     been extracted are greyed out.</li>
@@ -37,7 +37,7 @@
                 <li>Skipper name </li>
                 <li>Crew names</li>
                 <li>Waypoints</li>
-                <li>Shipping Forecasts</li>
+          <!--      <li>Shipping Forecasts</li>  -->
                 <!--                <li>Web links</li>   -->
             </ul>
         </dd>
